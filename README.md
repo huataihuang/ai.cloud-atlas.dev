@@ -1,2 +1,3 @@
-# ai.cloud-atlas.dev
-AI tech and experience
+# ai.cloud-atlas.dev goal
+
+Build by [Quarto](https://quarto.org), and will develop model with [nbdev](https://nbdev.fast.ai/).

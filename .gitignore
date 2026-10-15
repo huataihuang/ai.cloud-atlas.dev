@@ -1,0 +1,60 @@
+# ==========================================
+# 1. Quarto 编译生成的临时与输出目录
+# ==========================================
+/.quarto/
+/_site/
+/_freeze/
+/.ipynb_checkpoints/
+
+# ==========================================
+# 2. Python / Jupyter 运行时临时文件
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments (如果你在本地建了 venv)
+.venv/
+venv/
+ENV/
+env/
+
+# ==========================================
+# 3. macOS / Windows 系统自带垃圾文件
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Threat-Visualizer
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ==========================================
+# 4. 编辑器与 IDE 配置 (VS Code / Neovim)
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+.netrwhist
