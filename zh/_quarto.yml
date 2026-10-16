@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "云图 - AI"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: "首页"
+      - href: courses/fastai/index.qmd
+        text: "课程中心"
+      - href: packages/index.qmd
+        text: "自研库指南"
+    right:
+      - text: "🌐"
+        menu:
+          - href: ../en/index.html
+            text: "English"
+          - href: index.html
+            text: "中文"
+  sidebar:
+    - title: "AI 课程专区"
+      contents:
+        - courses/fastai/index.qmd
+        - courses/nn-zero-to-hero/index.qmd
+        - courses/stanford-cs229/index.qmd
+    - title: "自研算法库导读"
+      contents:
+        - packages/index.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true

@@ -1,0 +1,5 @@
+---
+title: "Fast.ai: 实用深度学习"
+---
+
+Fast.ai 课程实战与 Tesla A2 训练笔记。

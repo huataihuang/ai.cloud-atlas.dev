@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Cloud Atlas - AI"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: courses/fastai/index.qmd
+        text: "Courses"
+      - href: packages/index.qmd
+        text: "Packages Guide"
+    right:
+      - text: "🌐"
+        menu:
+          - href: index.html
+            text: "English"
+          - href: ../zh/index.html
+            text: "中文"
+  sidebar:
+    - title: "AI Courses"
+      contents:
+        - courses/fastai/index.qmd
+        - courses/nn-zero-to-hero/index.qmd
+        - courses/stanford-cs229/index.qmd
+    - title: "Custom Packages"
+      contents:
+        - packages/index.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true

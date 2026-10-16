@@ -1,0 +1,53 @@
+[
+  {
+    "objectID": "packages/index.html",
+    "href": "packages/index.html",
+    "title": "自研算法库导读",
+    "section": "",
+    "text": "本页面由中文编写，指引读者如何调用和体验根目录下统一的 packages/ Python 源码库。",
+    "crumbs": [
+      "自研库指南",
+      "自研算法库导读"
+    ]
+  },
+  {
+    "objectID": "courses/fastai/index.html",
+    "href": "courses/fastai/index.html",
+    "title": "Fast.ai: 实用深度学习",
+    "section": "",
+    "text": "Fast.ai 课程实战与 Tesla A2 训练笔记。",
+    "crumbs": [
+      "课程中心",
+      "Fast.ai: 实用深度学习"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "首页",
+    "section": "",
+    "text": "中文 AI 研发中心首页。"
+  },
+  {
+    "objectID": "courses/stanford-cs229/index.html",
+    "href": "courses/stanford-cs229/index.html",
+    "title": "Stanford CS229: 机器学习",
+    "section": "",
+    "text": "斯坦福大学经典机器学习公开课笔记。",
+    "crumbs": [
+      "课程中心",
+      "Stanford CS229: 机器学习"
+    ]
+  },
+  {
+    "objectID": "courses/nn-zero-to-hero/index.html",
+    "href": "courses/nn-zero-to-hero/index.html",
+    "title": "Neural Networks: Zero to Hero",
+    "section": "",
+    "text": "Andrej Karpathy 神经网络零基础到精通系列笔记。",
+    "crumbs": [
+      "课程中心",
+      "Neural Networks: Zero to Hero"
+    ]
+  }
+]

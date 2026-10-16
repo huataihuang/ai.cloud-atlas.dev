@@ -1,0 +1,5 @@
+---
+title: "Fast.ai: Practical Deep Learning"
+---
+
+Notes for Fast.ai.
