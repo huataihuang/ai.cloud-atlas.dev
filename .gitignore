@@ -1,15 +1,20 @@
 # ==========================================
 # 1. Quarto 编译生成的临时与输出目录
 # ==========================================
-/.quarto/
-/_site/
-/_freeze/
-/.ipynb_checkpoints/
+.quarto/
+_site/
+_freeze/
+.ipynb_checkpoints/
+**/.quarto/
+**/_site/
+**/_freeze/
+**/.ipynb_checkpoints/
 
 # ==========================================
 # 2. Python / Jupyter 运行时临时文件
 # ==========================================
 __pycache__/
+**/__pycache__/
 *.py[cod]
 *$py.class
 *.so
